@@ -7,7 +7,7 @@ var SEARCH_DATA = [];                          // SEARCH_DATA_SOURCE with change
 
 var URL_MODE = 'relative';
 var RELATIVE_PATHS = 1;
-var CONFIGURED_HTML_URL_PREFIX = '';
+var CONFIGURED_HTML_URL_PREFIX = '/Centralita_IA_Holded';
 var TRY_PRELOAD = 0;
 
 var fuse;                               // fuzzy search object
