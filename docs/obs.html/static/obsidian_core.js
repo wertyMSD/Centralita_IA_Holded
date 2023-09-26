@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/Centralita_IA_Holded";
 var RELATIVE_PATHS = 1;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '20725343236179783295617677022567948909'                       // used to check whether the localStorage data is stale
+var gzip_hash = '294634127523719320520242128795447282327'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
