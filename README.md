@@ -13,7 +13,7 @@
 
 # Documentación / Documentation
 
-https://wertymsd.github.io/Centralita_IA_holded/
+https://wertymsd.github.io/Centralita_IA_Holded/
 
 https://github.com/wertyMSD/Centralita_IA_holded
 
@@ -22,13 +22,13 @@ https://github.com/wertyMSD/Centralita_IA_holded
 - Windows 10 o superior con Espacio minimo 5 Mb
 
 # Instalación / Installation :
-- Descargar y descomprimir la aplicación en Zip 
+- Descargar y descomprimir la aplicación en Zip   [OneDrive](https://alcatic-my.sharepoint.com/:f:/g/personal/amartinez_alcatic_es/Esaa8j7CvKJItT6PKMr-gVkB337BpiFGBJTo8D3-aWCzww?e=ehTnuM)
 - Instalación y emparejamiento equipo windows [app Call Remoto]()
 - Rellene [Formulario de registro](https://forms.office.com/r/5k9k54cugV)
 
 
 # Video de la funcionalidades / Functionality video
-![](https://github.com/wertyMSD/proceso.gif
+![](https://github.com/wertyMSD/Centralita_IA_Holded/blob/master/proceso.gif)
 
 
 # Comentarios / Comments :
