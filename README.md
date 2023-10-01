@@ -12,8 +12,7 @@
 
 
 # Documentación / Documentation
-
-https://wertymsd.github.io/Centralita_IA_Holded/
+[DESCARGA DE PROGRAMA CENTRATALITA](https://wertymsd.github.io/Centralita_IA_Holded/)
 
 https://github.com/wertyMSD/Centralita_IA_holded
 
@@ -22,7 +21,6 @@ https://github.com/wertyMSD/Centralita_IA_holded
 - Windows 10 o superior con Espacio minimo 5 Mb
 
 # Instalación / Installation :
-- [Descargar y descomprimir la aplicación en Zip](https://wertymsd.github.io/test/img/centralita_holded.zip)
 - Instalación y emparejamiento equipo windows [app Call Remoto]()
 - Rellene [Formulario de registro](https://forms.office.com/r/5k9k54cugV)
 
